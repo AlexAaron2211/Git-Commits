@@ -20,3 +20,4 @@ Cassiopeia-Mid Laner
 Cho'Gath-Mid Laner/Top Laner
 Corki-ADC
 Darius-Top Laner
+Diana-Jungler/Mid Laner/Top Laner
