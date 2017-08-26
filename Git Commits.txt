@@ -9,3 +9,4 @@ Anivia-Mid Laner
 Annie-Mid Laner
 Ashe-ADC
 Aurelion Sol-Mid Laner
+Azir-Mid Laner
