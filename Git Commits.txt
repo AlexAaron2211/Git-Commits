@@ -25,3 +25,4 @@ Dr. Mundo-Top Laner
 Draven-ADC
 Ekko-Mid Laner/Jungler
 Elise-Jungler
+Evelynn-Jungler
