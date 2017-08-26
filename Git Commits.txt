@@ -4,3 +4,4 @@ Aatrox-Top Laner
 Ahri-Mid Laner
 Akali-Jungler
 Alistar-Support
+Amumu-Jungler
