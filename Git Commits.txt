@@ -3,3 +3,4 @@ League of Legends Character Catalog:
 Aatrox-Top Laner
 Ahri-Mid Laner
 Akali-Jungler
+Alistar-Support
