@@ -15,3 +15,4 @@ Blitzcrank-Support
 Brand-Mid Laner/Support
 Braum-Support
 Caitlyn-ADC
+Camille-Top Laner
