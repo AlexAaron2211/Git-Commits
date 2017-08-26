@@ -24,3 +24,4 @@ Diana-Jungler/Mid Laner/Top Laner
 Dr. Mundo-Top Laner
 Draven-ADC
 Ekko-Mid Laner/Jungler
+Elise-Jungler
