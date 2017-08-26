@@ -12,3 +12,4 @@ Aurelion Sol-Mid Laner
 Azir-Mid Laner
 Bard-Support
 Blitzcrank-Support
+Brand-Mid Laner/Support
