@@ -5,3 +5,4 @@ Ahri-Mid Laner
 Akali-Jungler
 Alistar-Support
 Amumu-Jungler
+Anivia-Mid Laner
