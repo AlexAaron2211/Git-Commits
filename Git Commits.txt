@@ -19,3 +19,4 @@ Camille-Top Laner
 Cassiopeia-Mid Laner
 Cho'Gath-Mid Laner/Top Laner
 Corki-ADC
+Darius-Top Laner
