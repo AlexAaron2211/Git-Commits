@@ -13,3 +13,4 @@ Azir-Mid Laner
 Bard-Support
 Blitzcrank-Support
 Brand-Mid Laner/Support
+Braum-Support
