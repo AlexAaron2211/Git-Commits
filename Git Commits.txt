@@ -22,3 +22,4 @@ Corki-ADC
 Darius-Top Laner
 Diana-Jungler/Mid Laner/Top Laner
 Dr. Mundo-Top Laner
+Draven-ADC
