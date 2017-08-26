@@ -10,3 +10,4 @@ Annie-Mid Laner
 Ashe-ADC
 Aurelion Sol-Mid Laner
 Azir-Mid Laner
+Bard-Support
